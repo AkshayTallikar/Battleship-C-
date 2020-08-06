@@ -166,7 +166,7 @@ namespace Csharptutoriak
         }
         static bool didyouwin()
         {
-            if (hitcounter == 26)
+            if (hitcounter == 9)
             {
                 haswon = true;
                 Console.WriteLine("You have won the game");
